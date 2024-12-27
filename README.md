@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, error in Node.js: using the deprecated `http.createServer` method.  The `bug.js` file shows the deprecated code, while `bugSolution.js` provides the updated, recommended approach using the newer methods.  The updated solution improves performance and offers better error handling.
